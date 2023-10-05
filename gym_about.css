@@ -1,0 +1,45 @@
+.about {
+    display: block;
+    margin-left: 2rem;
+    margin-top: 4rem;
+}
+
+.about_h1 {
+    margin-bottom: 2rem;
+}
+
+.youth {
+    color: rgb(56, 168, 131);
+}
+
+.about_h2 {
+    color: rgb(151, 118, 78);
+    margin-bottom: 2rem;
+}
+
+.about p {
+    font-family: 'Heebo', sans-serif;
+}
+
+.features {
+    display: block;
+    margin-top: 3rem;
+    margin-left: 4rem;
+}
+
+.features h2 {
+    font-size: 2rem;
+    color: rgb(221, 139, 16);
+    margin: 2rem 0;
+}
+
+.features ul {
+    padding: 0 5rem;
+}
+
+.features ul li {
+    color: rgb(4, 4, 63);
+    font-size: 1.2rem;
+    margin: 1.3rem 0;
+    font-family: 'Heebo', sans-serif;
+}
